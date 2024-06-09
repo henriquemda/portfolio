@@ -53,17 +53,28 @@ const Hero = () => {
            */}
           <TextGenerateEffect
             words="Creamos sitios web y tiendas en linea que dan credibilidad, comunican, venden y ayudan a simplificar tareas."
-            className="text-center text-[20px] md:text-5xl lg:text-6xl"
+            className="text-center text-[30px] md:text-4xl lg:text-5xl"
           />
 
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-          ¡Hola! Somos Rebirt, una Agencia de Desarrollo con sede en Perú.
-          </p>
           <span
               className="lg:py-4 lg:px-3 py-2 px-3 text-xs lg:text-base opacity-50 
               lg:opacity-100 rounded-lg text-center bg-[#10132E]"
             >
-              Automatizacion
+              E-commerce
+          </span>
+
+           <span
+              className="lg:py-4 lg:px-3 py-2 px-3 text-xs lg:text-base opacity-50 
+              lg:opacity-100 rounded-lg text-center bg-[#10132E]"
+            >
+              Automatización
+          </span>
+
+           <span
+              className="lg:py-4 lg:px-3 py-2 px-3 text-xs lg:text-base opacity-50 
+              lg:opacity-100 rounded-lg text-center bg-[#10132E]"
+            >
+              Inteligencia Artificial
           </span>
 
           <a href="#about">
