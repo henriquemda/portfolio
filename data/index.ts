@@ -101,24 +101,6 @@ export const testimonials = [
     name: "Fabrizio Pacussich",
     title: "TodoTiro",
   },
-  {
-    quote:
-      "Colaborar con Rebirt fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Rebirt por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Rebirt es la agencia ideal",
-    name: "Carlo Fedalto",
-    title: "Todo Surf Shop",
-  },
-  {
-    quote:
-      "Colaborar con Rebirt fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Rebirt por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Rebirt es la agencia ideal",
-    name: "Carlo Fedalto",
-    title: "Todo Surf Shop",
-  },
-  {
-    quote:
-      "Colaborar con Rebirt fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Rebirt por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Rebirt es la agencia ideal",
-    name: "Carlo Fedalto",
-    title: "Todo Surf Shop",
-  },
 ];
 
 export const companies = [
