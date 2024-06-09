@@ -71,7 +71,7 @@ export const FloatingNav = ({
           border: "1px solid rgba(255, 255, 255, 0.125)",
         }}
       >
-       Hello
+       <img src="rebirt-logo.svg" alt="rebirt logo" className="" />
       </motion.div>
     </AnimatePresence>
   );
