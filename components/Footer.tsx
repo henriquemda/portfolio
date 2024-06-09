@@ -20,7 +20,7 @@ const Footer = () => {
           Listo para llevar <span className="text-purple">tu</span> presencia digital siguiente nivel?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Comuníquese con nosotros hoy y analicemos cómo podemos ayudarlo a alcanzar sus objetivos.
+          Es hora de trabajar juntos, agendemos una reunión virtual
         </p>
         <a href="mailto:henrique@rebirt.com">
           <MagicButton
