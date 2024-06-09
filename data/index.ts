@@ -76,15 +76,15 @@ export const projects = [
     des: "Desarollo de E-commerce líder en la venta de armas, municiones y accesorios en Perú. Mi objetivo principal fue mejorar la experiencia de compra de los usuarios, haciéndola más segura, fluida y atractiva.",
     img: "/p10.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "www.todotiro.pe",
   },
   {
     id: 2,
     title: "Todo Surf Shop E-commerce",
     des: "Un E-commerce cautivador que captura la esencia de la cultura del surf de Perú, brindando una experiencia de compra en línea inmersiva.",
-    img: "/p2.svg",
+    img: "/p11.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "www.todosurfshop.com",
   },
 ];
 
