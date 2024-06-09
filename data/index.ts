@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Colaborar con Rebirt fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Rebirt por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Rebirt es la agencia ideal",
+    name: "Carlo Fedalto",
+    title: "Todo Surf Shop",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Colaborar con Rebirt fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Rebirt por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Rebirt es la agencia ideal",
+    name: "Carlo Fedalto",
+    title: "Todo Surf Shop",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Colaborar con Rebirt fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Rebirt por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Rebirt es la agencia ideal",
+    name: "Carlo Fedalto",
+    title: "Todo Surf Shop",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Colaborar con Rebirt fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Rebirt por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Rebirt es la agencia ideal",
+    name: "Carlo Fedalto",
+    title: "Todo Surf Shop",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Colaborar con Rebirt fue un absoluto placer. Su profesionalismo, rapidez y dedicación para lograr resultados excepcionales fueron evidentes a lo largo de nuestro proyecto. Realmente destaca el entusiasmo de Rebirt por cada faceta del desarrollo. Si busca mejorar su sitio web y su marca, Rebirt es la agencia ideal",
+    name: "Carlo Fedalto",
+    title: "Todo Surf Shop",
   },
 ];
 
