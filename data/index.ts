@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "TodoTiro E-commerce",
     des: "Desarollo de E-commerce líder en la venta de armas, municiones y accesorios en Perú. Mi objetivo principal fue mejorar la experiencia de compra de los usuarios, haciéndola más segura, fluida y atractiva.",
-    img: "/p1.svg",
+    img: "/p10.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
