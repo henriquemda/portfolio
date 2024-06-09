@@ -59,6 +59,12 @@ const Hero = () => {
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
           ¡Hola! Somos Rebirt, una Agencia de Desarrollo con sede en Perú.
           </p>
+          <span
+              className="lg:py-4 lg:px-3 py-2 px-3 text-xs lg:text-base opacity-50 
+              lg:opacity-100 rounded-lg text-center bg-[#10132E]"
+            >
+              Automatizacion
+          </span>
 
           <a href="#about">
             <MagicButton
