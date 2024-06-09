@@ -14,7 +14,7 @@ const Approach = () => {
         {/* add des prop */}
         <Card
           title="Planning & Strategy"
-          icon={<AceternityIcon order="Phase 1" />}
+          icon={<AceternityIcon order="Fase 1" />}
           des="We'll collaborate to map out your website's goals, target audience, 
           and key functionalities. We'll discuss things like site structure, 
           navigation, and content requirements."
@@ -49,7 +49,7 @@ const Approach = () => {
         </Card>
         <Card
           title="Development & Launch"
-          icon={<AceternityIcon order="Phase 3" />}
+          icon={<AceternityIcon order="Fase 3" />}
           des="This is where the magic happens! Based on the approved design, 
           I'll translate everything into functional code, building your website
           from the ground up."
@@ -58,6 +58,19 @@ const Approach = () => {
             animationSpeed={3}
             containerClassName="bg-sky-600 rounded-3xl overflow-hidden"
             colors={[[125, 211, 252]]}
+          />
+        </Card>
+        <Card
+          title="Planning & Strategy"
+          icon={<AceternityIcon order="Fase 4" />}
+          des="We'll collaborate to map out your website's goals, target audience, 
+          and key functionalities. We'll discuss things like site structure, 
+          navigation, and content requirements."
+        >
+          <CanvasRevealEffect
+            animationSpeed={5.1}
+            // add these classed for the border rounded overflowing -> rounded-3xl overflow-hidden
+            containerClassName="bg-emerald-900 rounded-3xl overflow-hidden"
           />
         </Card>
       </div>
