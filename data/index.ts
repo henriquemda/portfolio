@@ -84,7 +84,7 @@ export const projects = [
     des: "Un E-commerce cautivador que captura la esencia de la cultura del surf de Perú, brindando una experiencia de compra en línea inmersiva.",
     img: "/p11.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "www.todosurfshop.com",
+    link: "https://www.todosurfshop.com",
   },
 ];
 
