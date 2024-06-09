@@ -53,7 +53,7 @@ const Hero = () => {
            */}
           <TextGenerateEffect
             words="Creamos sitios web y tiendas en linea que dan credibilidad, comunican, venden y ayudan a simplificar tareas."
-            className="text-center text-[30px] md:text-5xl lg:text-6xl"
+            className="text-center text-[20px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
