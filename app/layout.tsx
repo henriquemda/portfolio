@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Rebirt 🔥 Unleash your digital potential.",
-  description: "Transforming Concepts into Seamless User Experiences",
+  description: "Un Enfoque Centrado en el Usuario para la Innovación Digital",
 };
 
 export default function RootLayout({
