@@ -21,12 +21,11 @@ const Footer = () => {
           presencia al siguiente nivel?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to us today and let&apos;s discuss how we can help you
-          achieve your goals.
+          Comuníquese con nosotros hoy y analicemos cómo podemos ayudarlo a alcanzar sus objetivos.
         </p>
         <a href="mailto:henrique@rebirt.com">
           <MagicButton
-            title="Let's get in touch"
+            title="Mantengámonos en contacto"
             icon={<FaLocationArrow />}
             position="right"
           />
