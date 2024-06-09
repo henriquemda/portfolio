@@ -81,7 +81,7 @@ const Hero = () => {
           <br></br>
           <a href="#about">
             <MagicButton
-              title="Descubre nuestro trabajo"
+              title="Nuestro trabajo"
               icon={<FaLocationArrow />}
               position="right"
             />
