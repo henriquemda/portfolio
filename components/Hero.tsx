@@ -78,6 +78,7 @@ const Hero = () => {
                 Inteligencia Artificial
             </span>
           </div>
+          <br></br>
           <a href="#about">
             <MagicButton
               title="Show our work"
